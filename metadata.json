@@ -1,0 +1,5 @@
+{
+  "name": "Documentation Assistant",
+  "description": "An AI-powered tool to help therapists transform shorthand clinical notes into professional documentation.",
+  "requestFramePermissions": []
+}
